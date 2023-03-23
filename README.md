@@ -45,4 +45,3 @@ The page where an admin user manages the system users.
 ### Account Management Page
 ​​​​​​​The page where can the user update his/her system credentials and information.
 <br>
-## Screenshots
